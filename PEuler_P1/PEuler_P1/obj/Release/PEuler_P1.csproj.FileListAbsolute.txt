@@ -1,0 +1,5 @@
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P1\bin\Release\PEuler_P1.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P1\bin\Release\PEuler_P1.pdb
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P1\obj\Release\PEuler_P1.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P1\obj\Release\PEuler_P1.pdb

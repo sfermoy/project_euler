@@ -1,0 +1,7 @@
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P6\bin\Debug\PEuler_P6.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P6\bin\Debug\PEuler_P6.pdb
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P6\obj\Debug\PEuler_P6.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P6\obj\Debug\PEuler_P6.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P6\PEuler_P6\obj\Debug\PEuler_P6.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P6\PEuler_P6\obj\Debug\PEuler_P6.pdb

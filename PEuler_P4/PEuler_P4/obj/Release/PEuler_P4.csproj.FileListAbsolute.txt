@@ -1,0 +1,10 @@
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P4\obj\Release\ResolveAssemblyReference.cache
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P4\bin\Release\PEuler_P4.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P4\bin\Release\PEuler_P4.pdb
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P4\obj\Release\PEuler_P4.exe
+C:\Users\shane\AppData\Local\Temporary Projects\PEuler_P4\obj\Release\PEuler_P4.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P4\PEuler_P4\obj\Release\PEuler_P4.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P4\PEuler_P4\obj\Release\PEuler_P4.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P4\PEuler_P4\bin\Release\PEuler_P4.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P4\PEuler_P4\bin\Release\PEuler_P4.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P4\PEuler_P4\obj\Release\ResolveAssemblyReference.cache

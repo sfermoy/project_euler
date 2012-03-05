@@ -1,0 +1,5 @@
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P2\PEuler_P2\bin\Debug\PEuler_P2.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P2\PEuler_P2\bin\Debug\PEuler_P2.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P2\PEuler_P2\obj\Debug\ResolveAssemblyReference.cache
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P2\PEuler_P2\obj\Debug\PEuler_P2.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P2\PEuler_P2\obj\Debug\PEuler_P2.pdb

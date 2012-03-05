@@ -1,0 +1,5 @@
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P3\PEuler_P3\bin\Debug\PEuler_P3.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P3\PEuler_P3\bin\Debug\PEuler_P3.pdb
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P3\PEuler_P3\obj\Debug\ResolveAssemblyReference.cache
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P3\PEuler_P3\obj\Debug\PEuler_P3.exe
+D:\ME\Documents\Visual Studio 2008\Projects\ProjectEuler\PEuler_P3\PEuler_P3\obj\Debug\PEuler_P3.pdb
