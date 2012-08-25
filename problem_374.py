@@ -1,3 +1,5 @@
+#works for the example question but not the actual question...pure joke
+
 #from math import factorial
 #tri_num =[1,3,6,10]
 tri_num_current=1
