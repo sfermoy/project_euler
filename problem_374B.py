@@ -2,7 +2,7 @@
 #tri_num =[1,3,6,10]
 tri_num_current=1
 tri_num_index=1
-factorial_current=1
+factorial_current=1.0/982451653.0
 factorial_index=1
 
 def tri_num_less_than(value,tri_num_current,tri_num_index):
@@ -23,11 +23,11 @@ def tri_num_less_than(value,tri_num_current,tri_num_index):
 
 def factorial(value,factorial_current,factorial_index):
 	while 1:
-		if value== factorial_index:
+		if value == factorial_index:
 			return factorial_current
-		if value<factorial_index:
+		if value < factorial_index:
 			return factorial_current/factorial_index
-		if value> factorial_index:
+		if value > factorial_index:
 			factorial_current=factorial_current*(factorial_index+1)
 			factorial_index+=1
 
@@ -64,4 +64,4 @@ for val in xrange(1,(10**5)+1):
 	#	totes=totes%982451653
 		#print val,totes
 
-print totes%982451653,totes/982451653.0
+print totes

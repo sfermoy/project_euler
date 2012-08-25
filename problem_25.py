@@ -1,5 +1,4 @@
 fibs=[0,1,1]
-import pdb
 def fib(n):
 	#pdb.set_trace()
 	if n <= (len(fibs)-1):
