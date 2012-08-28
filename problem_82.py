@@ -5,23 +5,21 @@ mat= genfromtxt("prob_82_input.txt",delimiter=",")
 def smallest_unvisited(values,visited):
 	min_index=unravel_index(values.argmin(), values.shape)
 	if visited[min_index[0],min_index[1]]>0:
-		values[min_index[0],min_index[1]]=20**12
+		values[min_index[0],min_index[1]]=20**12#infinity
 		return smallest_unvisited(values,visited)
 	else:
 		return [values,min_index]
 
-def dikjstra(matrix,source):
+def dikjstra(matrix):
 	nrows=len(matrix)
 	mcols=len(matrix[0])
-	index=source
-	tentitive=array([[10**12 for x in xrange(mcols)] for x in xrange(nrows)])
+	tentitive=array([[10**12 for x in xrange(mcols)] for x in xrange(nrows)])#infinity
 	result=array([[0 for x in xrange(mcols)] for x in xrange(nrows)])
-	tentitive[index[0],index[1]]=matrix[index[0],index[1]]
-	#itterate over the total number of elements in our vertix weight matrix
+	#add source with edge weight 0 to all first column nodes
+	tentitive[:,0]=matrix[:,0]
+
 	for z in xrange((nrows*mcols)):
-		#use source first then the smallest tentive node for every subsequent loop
-		if z>0:
-			tentitive,index=smallest_unvisited(tentitive,result)
+		tentitive,index=smallest_unvisited(tentitive,result)
 
 		i=index[0]
 		j=index[1]
@@ -61,14 +59,6 @@ def dikjstra(matrix,source):
 	return result
 
 ######main#############
-minlist=[]
-for x in xrange(len(mat)):
-	b=array(mat)
-	result=dikjstra(b,(x,0))
-	last_column=result[:,len(mat)-1]
-	minlist.append(min(last_column))
-
-print min(minlist)
-
-
-
+result=dikjstra(mat)
+last_column=result[:,len(mat)-1]
+print min(last_column)
